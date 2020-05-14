@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import "./App.css";
 
 function App() {
+  console.log('hi');
+  
   const [input, setInput] = useState("");
   const [show, setShow] = useState(1);
   const suit = ["♠️", "♥️", "♦️", "♣️"];
