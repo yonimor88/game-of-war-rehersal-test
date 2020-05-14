@@ -1,1 +1,3 @@
-1
+---
+permalink: /index.html
+---
