@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1bf269ba13d4a6837fc4d186655518bb",
+    "revision": "8af377f0b3da7c0426dcdcbc07a0932f",
     "url": "/game-of-war-rehersal-test/index.html"
   },
   {
-    "revision": "984190a7468027ff7377",
-    "url": "/game-of-war-rehersal-test/static/css/main.a8870a49.chunk.css"
+    "revision": "19c95401d8a515fd389c",
+    "url": "/game-of-war-rehersal-test/static/css/main.a8614998.chunk.css"
   },
   {
     "revision": "81f4287b9b16fe830869",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/game-of-war-rehersal-test/static/js/2.32dca813.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "984190a7468027ff7377",
-    "url": "/game-of-war-rehersal-test/static/js/main.58a2a012.chunk.js"
+    "revision": "19c95401d8a515fd389c",
+    "url": "/game-of-war-rehersal-test/static/js/main.ca2fcd12.chunk.js"
   },
   {
     "revision": "634eb5b61090beb28ad5",

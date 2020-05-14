@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/game-of-war-rehersal-test/precache-manifest.9575ef65bd36d5bf5e2f559992cf6b33.js"
+  "/game-of-war-rehersal-test/precache-manifest.490b28f63729b2c1f5d4ef363c8ba7a7.js"
 );
 
 self.addEventListener('message', (event) => {

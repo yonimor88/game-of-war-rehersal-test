@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/game-of-war-rehersal-test/static/css/main.a8870a49.chunk.css",
-    "main.js": "/game-of-war-rehersal-test/static/js/main.58a2a012.chunk.js",
-    "main.js.map": "/game-of-war-rehersal-test/static/js/main.58a2a012.chunk.js.map",
+    "main.css": "/game-of-war-rehersal-test/static/css/main.a8614998.chunk.css",
+    "main.js": "/game-of-war-rehersal-test/static/js/main.ca2fcd12.chunk.js",
+    "main.js.map": "/game-of-war-rehersal-test/static/js/main.ca2fcd12.chunk.js.map",
     "runtime-main.js": "/game-of-war-rehersal-test/static/js/runtime-main.3993a8c8.js",
     "runtime-main.js.map": "/game-of-war-rehersal-test/static/js/runtime-main.3993a8c8.js.map",
     "static/js/2.32dca813.chunk.js": "/game-of-war-rehersal-test/static/js/2.32dca813.chunk.js",
     "static/js/2.32dca813.chunk.js.map": "/game-of-war-rehersal-test/static/js/2.32dca813.chunk.js.map",
     "index.html": "/game-of-war-rehersal-test/index.html",
-    "precache-manifest.9575ef65bd36d5bf5e2f559992cf6b33.js": "/game-of-war-rehersal-test/precache-manifest.9575ef65bd36d5bf5e2f559992cf6b33.js",
+    "precache-manifest.490b28f63729b2c1f5d4ef363c8ba7a7.js": "/game-of-war-rehersal-test/precache-manifest.490b28f63729b2c1f5d4ef363c8ba7a7.js",
     "service-worker.js": "/game-of-war-rehersal-test/service-worker.js",
-    "static/css/main.a8870a49.chunk.css.map": "/game-of-war-rehersal-test/static/css/main.a8870a49.chunk.css.map",
+    "static/css/main.a8614998.chunk.css.map": "/game-of-war-rehersal-test/static/css/main.a8614998.chunk.css.map",
     "static/js/2.32dca813.chunk.js.LICENSE.txt": "/game-of-war-rehersal-test/static/js/2.32dca813.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3993a8c8.js",
     "static/js/2.32dca813.chunk.js",
-    "static/css/main.a8870a49.chunk.css",
-    "static/js/main.58a2a012.chunk.js"
+    "static/css/main.a8614998.chunk.css",
+    "static/js/main.ca2fcd12.chunk.js"
   ]
 }
