@@ -2,8 +2,8 @@ import React, { useState } from "react";
 import "./App.css";
 
 function App() {
-  console.log('hi');
-  
+
+  // values for the deck array to be joined later
   const [input, setInput] = useState("");
   const [show, setShow] = useState(1);
   const suit = ["♠️", "♥️", "♦️", "♣️"];
@@ -22,11 +22,14 @@ function App() {
     { level: "Q", value: 12 },
     { level: "K", value: 13 }
   ];
+
+  // function that creates the deck array
   const tempDeck = suit.map(suit => rank.map(rank => ({ rank, suit }))).flat(1);
+
+  // values that contain data that will be changed during gameplay
   const [newDeck, setNewDeck] = useState(tempDeck);
   const [playerDeck, setPlayerDeck] = useState([]);
   const [computerDeck, setComputerDeck] = useState([]);
-  
   const [playerData, setPlayerData] = useState({
     name: null,
     wins: 0,
@@ -97,7 +100,8 @@ function App() {
       }
     }
   };
-
+  
+  // function that indicates if the user won or lost
   const currentWinOrLose = () => {
     if (playerScore > computerScore) {
       return <h1 style={{color: 'lightgreen'}}>you are a Winner!!!</h1>;
@@ -105,7 +109,8 @@ function App() {
       return <h1 style={{color: 'red'}}>You are a lousy LOOSER BOOOO!!!</h1>;
     }
   };
-
+  
+  // function that resets all the values and takes the user back to login screen
   const backToStart =() =>{
     setNewDeck(tempDeck)
     setIndex(0)
@@ -117,6 +122,7 @@ function App() {
     setPlayerScore(0)
     setComputerScore(0)
   }
+  
   // this section is incharge of switching the viewed content
   const showContent = () => {
     if (show === 1) {
