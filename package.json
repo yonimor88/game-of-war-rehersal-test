@@ -1,4 +1,5 @@
 {
+  "homepage": "http://yonimor88.github.io/game-of-war-rehersal-test",
   "name": "test-rehersal",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +12,7 @@
     "react-scripts": "3.4.0"
   },
   "scripts": {
+    "deploy": "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
