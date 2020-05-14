@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/game-of-war-rehersal-test/public/static/css/main.a8870a49.chunk.css",
-    "main.js": "/game-of-war-rehersal-test/public/static/js/main.d95315bb.chunk.js",
-    "main.js.map": "/game-of-war-rehersal-test/public/static/js/main.d95315bb.chunk.js.map",
-    "runtime-main.js": "/game-of-war-rehersal-test/public/static/js/runtime-main.93d0a222.js",
-    "runtime-main.js.map": "/game-of-war-rehersal-test/public/static/js/runtime-main.93d0a222.js.map",
-    "static/js/2.32dca813.chunk.js": "/game-of-war-rehersal-test/public/static/js/2.32dca813.chunk.js",
-    "static/js/2.32dca813.chunk.js.map": "/game-of-war-rehersal-test/public/static/js/2.32dca813.chunk.js.map",
-    "index.html": "/game-of-war-rehersal-test/public/index.html",
-    "precache-manifest.9eefebc0758b3fa0268576f95a0a0e40.js": "/game-of-war-rehersal-test/public/precache-manifest.9eefebc0758b3fa0268576f95a0a0e40.js",
-    "service-worker.js": "/game-of-war-rehersal-test/public/service-worker.js",
-    "static/css/main.a8870a49.chunk.css.map": "/game-of-war-rehersal-test/public/static/css/main.a8870a49.chunk.css.map",
-    "static/js/2.32dca813.chunk.js.LICENSE.txt": "/game-of-war-rehersal-test/public/static/js/2.32dca813.chunk.js.LICENSE.txt"
+    "main.css": "/game-of-war-rehersal-test/static/css/main.a8870a49.chunk.css",
+    "main.js": "/game-of-war-rehersal-test/static/js/main.58a2a012.chunk.js",
+    "main.js.map": "/game-of-war-rehersal-test/static/js/main.58a2a012.chunk.js.map",
+    "runtime-main.js": "/game-of-war-rehersal-test/static/js/runtime-main.3993a8c8.js",
+    "runtime-main.js.map": "/game-of-war-rehersal-test/static/js/runtime-main.3993a8c8.js.map",
+    "static/js/2.32dca813.chunk.js": "/game-of-war-rehersal-test/static/js/2.32dca813.chunk.js",
+    "static/js/2.32dca813.chunk.js.map": "/game-of-war-rehersal-test/static/js/2.32dca813.chunk.js.map",
+    "index.html": "/game-of-war-rehersal-test/index.html",
+    "precache-manifest.9575ef65bd36d5bf5e2f559992cf6b33.js": "/game-of-war-rehersal-test/precache-manifest.9575ef65bd36d5bf5e2f559992cf6b33.js",
+    "service-worker.js": "/game-of-war-rehersal-test/service-worker.js",
+    "static/css/main.a8870a49.chunk.css.map": "/game-of-war-rehersal-test/static/css/main.a8870a49.chunk.css.map",
+    "static/js/2.32dca813.chunk.js.LICENSE.txt": "/game-of-war-rehersal-test/static/js/2.32dca813.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.93d0a222.js",
+    "static/js/runtime-main.3993a8c8.js",
     "static/js/2.32dca813.chunk.js",
     "static/css/main.a8870a49.chunk.css",
-    "static/js/main.d95315bb.chunk.js"
+    "static/js/main.58a2a012.chunk.js"
   ]
 }
